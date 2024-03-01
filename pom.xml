@@ -20,13 +20,13 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>Main.MainInterfaz</mainClass>
+                            <mainClass>Main.Main3Relojes</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
                         <descriptorRef>jar-with-dependencies</descriptorRef>
                     </descriptorRefs>
-                    <finalName>CamareroYellowJack</finalName>
+                    <finalName>TresRelojes</finalName>
                 </configuration>
                 <executions>
                     <execution>
